@@ -11,7 +11,7 @@ CJMBM<header>
 
 # GitHub Pages
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+Just a man in the world doing this thing called life and barking up the Tree of Life_Create a site or blog from your GitHub repositories with GitHub Pages._
 
 </header>
 
