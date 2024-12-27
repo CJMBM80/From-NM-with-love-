@@ -9,9 +9,9 @@ CJMBM<header>
   Add your open source license, GitHub uses MIT license.
 -->
 
-# GitHub Pages
+# CJMBM
 
-Just a man in the world doing this thing called life and barking up the Tree of Life_Create a site or blog from your GitHub repositories with GitHub Pages._
+Just a man in the world doing this thing called life and barking up it's Tree but these extracted claws tell me I'm ready to climb
 
 </header>
 
